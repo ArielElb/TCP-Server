@@ -1,5 +1,7 @@
 # TCP-Server
 
+![image](https://github.com/ArielElb/TCP-Server/assets/94087682/b1faa30e-e8fc-4037-8bab-a14172d2c715)
+
 
 ## TCP Traffic Analysis and TCP Server Implementation
 Part I: TCP Traffic Analysis
